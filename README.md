@@ -25,19 +25,6 @@ Currently looking for **internships** in gameplay, tools, or general engineering
 
 ---
 
-### 🎮 Featured Projects
-
-**[Zenog: 2D High Score Game](https://github.com/Kaboochy/SchoolZenog)** · *XNA, C#, Aseprite*
-A fast 2D game focused on player feel, cutscenes, and clean collisions. Built the movement system, an animation state machine (run/jump/attack), and a dynamic enemy system that scales difficulty. · [Video](https://www.youtube.com/watch?v=onYZIVCZa5M)
-
-**[Project Kaos: 3D Action RPG](https://sites.google.com/k12.friscoisd.org/projectkaos/home)** · *Unreal Engine, Blueprints, Blender*
-First-person action RPG about Zy's fight to reunite the city of Zenog. Led the team with Scrum/Agile, built gameplay in Blueprints, and motion-captured animations with an Xbox Kinect.
-
-**[Downhill Racer: Browser Unity Game](https://kaboochy.itch.io/)** · *Unity, C#, Maya, WebGL*
-Downhill time-trial racer optimized to run smoothly in Chrome on itch.io. Made and animated custom assets in Maya and tuned rendering and lighting for browser performance. · [Video](https://youtu.be/T2XLLKnBQ3U)
-
----
-
 ### 💼 Experience
 
 **Creative Director, Project Kaos** (School Project) · *2022 – 2023*
