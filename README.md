@@ -27,7 +27,7 @@ Currently looking for **internships** in gameplay, tools, or general engineering
 
 ### 💼 Experience
 
-**Creative Director, Project Kaos** (School Project) · *2022 – 2023*
+**Creative Director, Project Kaos** · *2022 – 2023*
 - Designed levels and the core gameplay loop; wrote the game's narrative
 - Modeled 3D assets in Blender
 - Ran documentation and agile sprint reviews; collaborated via Git branches + PRs
